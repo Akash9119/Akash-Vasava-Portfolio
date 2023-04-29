@@ -1,5 +1,4 @@
 import projects from "../../utils/projectsList";
-import DemoAccount from "../DemoAccount";
 
 const Projects = () => {
   return (
@@ -53,9 +52,6 @@ const Projects = () => {
                   {project.subTitle}
                 </h2>
                 <p className="mb-2 text-gray-700">{project.description}</p>
-                {project.demoAccount && (
-                  <DemoAccount demoAccount={project.demoAccount} />
-                )}
                 <div className="flex flex-wrap space-x-2 mt-5">
                   <h2 className="inline-block text-gray-600 mb-3 text-xl font-bold leading-5">
                     Technologies:

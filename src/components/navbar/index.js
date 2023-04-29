@@ -13,13 +13,13 @@ const NavBar = () => {
         <div className='relative flex items-center justify-between'>
           <a
             href='/'
-            aria-label='RaulWebDev'
-            title='RaulWebDev'
+            aria-label='Akash Vasava'
+            title='Akash Vasava'
             className='inline-flex items-center'
           >
             <i className='mr-2 text-2xl text-blue-accent-400 fa-solid fa-layer-group'></i>
             <span className='ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase'>
-              RaulWebDev
+              Akash Vasava
             </span>
           </a>
           <ul className='items-center hidden space-x-8 lg:flex'>
@@ -58,7 +58,7 @@ const NavBar = () => {
                 onClick={handleScroll}
                 className='inline-flex items-center justify-center h-12 px-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-blue-accent-400 hover:bg-blue-accent-700 focus:shadow-outline focus:outline-none'
               >
-                Contact Me
+                Contact
               </a>
             </li>
           </ul>
@@ -92,7 +92,7 @@ const NavBar = () => {
                       <a href='/' className='inline-flex items-center'>
                         <i className='mr-2 text-2xl text-blue-accent-400 fa-solid fa-layer-group'></i>
                         <span className='ml-2 text-xl font-bold tracking-wide text-gray-800 uppercase'>
-                          RaulWebDev
+                          Akash Vasava
                         </span>
                       </a>
                     </div>
@@ -147,7 +147,7 @@ const NavBar = () => {
                           onClick={handleScroll}
                           className='bg-blue-accent-200 font-medium tracking-wide text-white px-4 py-2'
                         >
-                          Contact Me
+                          Contact
                         </a>
                       </li>
                     </ul>

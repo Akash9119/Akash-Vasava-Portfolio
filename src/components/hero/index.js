@@ -10,10 +10,11 @@ const Hero = () => {
             <div className="max-w-xl mb-6 lg:text-end">
               <h2 className="font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none max-w-lg mb-6">
                 Hi there, I'm{" "}
-                <span className="inline-block text-blue-accent-700">Raul</span>
+                <span className="inline-block text-blue-accent-700">Akash Vasava</span>
               </h2>
               <p className="text-gray-700 text-base md:text-lg">
-                I'm a Full Stack Web Developer based in Deltona, Florida.
+                I'm a HTML Email Developer and Web Content Editor <br />
+                 based in Gujarat, India.
               </p>
             </div>
             <div className="flex items-center justify-start lg:justify-end">

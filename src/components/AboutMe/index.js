@@ -36,22 +36,27 @@ const AboutMe = () => {
           </h2>
           <div className="w-full flex flex-wrap">
             <div className="w-full lg:w-1/2 p-2 flex items-center">
-            <img src={Picture} alt="Raul" className="mx-auto rounded-lg border border-gray-800 shadow-md" />
+              <img
+                src={Picture}
+                alt="Akash Vasava"
+                className="mx-auto rounded-lg border border-gray-600 shadow-md"
+              />
             </div>
             <div className="w-full lg:w-1/2 flex flex-col justify-center p-2 py-8">
-              <p className="text-base text-gray-400 md:text-lg">
-                My name is Raul and I am a talented barber and full stack
-                developer. I have been working in the barbering industry for two
-                decades and have developed a keen eye for details. In my free
-                time, I enjoy listening to music and drawing, I have always had
-                a love for music and find that it helps to relax and inspire me
-                in my work.
+              <p className="text-base text-gray-300 md:text-lg">
+                My name is Akash Vasava and I am a talented HTML Email Developer
+                and Web Content Editor. In my free time, I enjoy listening to
+                music and reading books, I have always had a love for music and
+                find that it helps to relax and inspire me in my work. I also
+                love reading different books I think that books are the best way
+                to gather knowledge.
               </p>
-              <p className="mt-4 text-base text-gray-400 md:text-lg">
-                I initially started coding as a hobby, but quickly realized that
-                it was something I was truly passionate about and decided to
-                pursue a career change. It was a big decision, but I am excited
-                to be able to do what I love and help others in the process.
+              <p className="mt-4 text-base text-gray-300 md:text-lg">
+                I was passionate in computers and coding from the childhood. As
+                time passed I get distracted from It but recently I decided to
+                make my career in the field of development. It was a big
+                decision for me, but I am excited to be able to do what I love
+                and help others in the process.
               </p>
             </div>
           </div>
