@@ -10,7 +10,7 @@ const projects = [
     title: "Watch Promotional Email",
     subTitle: "HTML Email",
     description:
-      "Watch Promotional Email is a HTML Email that shows users responsive HTML Email(using Tables) for the Watch shop Promotion It is built using the HTML and CSS and is deployed on VERCEL.It is tested for the esponsiveness in different devices and different email clients.",
+      "Watch Promotional Email is a HTML Email that shows users responsive HTML Email (using Tables) for the Watch shop Promotion It is built using the HTML and CSS and is deployed on VERCEL. It is tested for the responsiveness in different devices and different email clients.",
     image: ConnectMe,
     technologies: [
       "HTML",
@@ -75,7 +75,7 @@ const projects = [
     title: "Drawing Responsive Email",
     subTitle: "HTML Email",
     description:
-      "It is a responsive HTML Email Created using HTML and CSS. It is a responsive Email which uses two-column and three-column layout. It adapts to different screen sizes and email clients",
+      "It is a responsive HTML Email Created using HTML and CSS. It is a responsive Email which uses two-column and three-column layout. It adapts to different screen sizes and email clients.",
     image: CoinHiz,
     technologies: [
       "HTML",
